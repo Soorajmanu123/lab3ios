@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C4D20B1A-4B10-4B51-BE06-8F69A3BDE6CB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75C8467A-E6EF-4FFF-BD28-A4489BFA303B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab3IOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "loadWeather(search:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75C8467A-E6EF-4FFF-BD28-A4489BFA303B - 4f6f3a69126d070b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in lab3IOS.ViewController.loadWeather(search: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "lab3IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soorajsureshkrishnan/Desktop/IOS1-Sep/lab3IOS/lab3IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "75C8467A-E6EF-4FFF-BD28-A4489BFA303B - 4f6f3a69126d070b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in lab3IOS.ViewController.loadWeather(search: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "lab3IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soorajsureshkrishnan/Desktop/IOS1-Sep/lab3IOS/lab3IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "936">
+               </Location>
+               <Location
+                  uuid = "75C8467A-E6EF-4FFF-BD28-A4489BFA303B - 4f6f3a69126d070b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in lab3IOS.ViewController.loadWeather(search: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "lab3IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soorajsureshkrishnan/Desktop/IOS1-Sep/lab3IOS/lab3IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
